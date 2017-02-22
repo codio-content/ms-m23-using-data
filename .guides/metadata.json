@@ -1,0 +1,73 @@
+{
+ "sections": [
+  {
+   "id": "bc9bf8fc-b4b7-9e31-f846-64f629688049",
+   "title": "What is Data? ",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/What-is-Data---bc9b.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "fb638033-9879-026d-2679-66eeb9861a52",
+   "title": "Buying A Car",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Buying-A-Car-fb63.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "c12d257d-0f1b-db9b-00a2-8d8523a58335",
+   "title": "How do we collect data? ",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/How-do-we-collect-data---c12d.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "9cddeca5-f258-0d58-bda5-9ff65b2b5d46",
+   "title": "What process is used to “transform data”? ",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/What-process-is-used-to--transform-data----9cdd.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "93c2349e-9896-f406-84f1-c633372d2d86",
+   "title": "Analyzing Data",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Analyzing-Data-93c2.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "a7e13efb-3b96-c52a-47ba-556338b8d3a1",
+   "title": "Using Data to solve a problem",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Using-Data-to-solve-a-problem-a7e1.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": ""
+}
